@@ -1,0 +1,35 @@
+/*
+    Reyes, Alexander
+    CS183-1P/BM6
+    Activity 1
+*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+a,
+a:hover,
+a:visited,
+a:active {
+    text-decoration: none;
+}
+
+.header {
+    width: 100vw;
+    padding: 2em;
+}
+
+.form-container {
+    margin: 0 auto;
+}
+
+.form-group {
+    display: block;
+    margin: 1em;
+}
